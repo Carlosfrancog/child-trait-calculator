@@ -1,0 +1,8 @@
++++++{'PAI': 'CARLOS', 'OLHO': 'VERDE', 'CABELO': 'LOIRO', 'ETINIA': 'BRANCO'}
++++++{'MÃE': 'MISA', 'OLHO': 'VERDE', 'CABELO': 'CASTANHO', 'ETINIA': 'BRANCO'}
++++++{'FILHO': 'LUA', 'SEXO': 'FEMININO', 'OLHO': 'VERDE', 'CABELO': 'CASTANHO', 'ETINIA': 'BRANCO'}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
++++++{'PAI': 'JOENTON', 'OLHO': 'AZUL', 'CABELO': 'CASTANHO', 'ETINIA': 'BRANCO'}
++++++{'MÃE': 'MARCIA', 'OLHO': 'VERDE', 'CABELO': 'LOIRO', 'ETINIA': 'PRETO'}
++++++{'FILHO': 'PEDRP', 'SEXO': 'MASCULINO', 'OLHO': 'VERDE', 'CABELO': 'CASTANHO', 'ETINIA': 'PARDO'}
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
